@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0036-valid-sudoku) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
