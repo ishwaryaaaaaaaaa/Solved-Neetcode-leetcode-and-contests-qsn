@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -40,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0628-maximum-product-of-three-numbers) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
