@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ishwaryaaaaaaaaa/Solved-Neetcode-leetcode-and-contests-qsn/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
